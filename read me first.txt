@@ -1,0 +1,47 @@
+-------------Chatbot v0.1(elsa 0.1)---------------------------------------------
+
+Introduction:
+Chatbot v0.1 is the prototype chatbot developed using python.
+It's alias name is elsa.
+It is an recursive type chatbot means all the quesions and responses are predefined in the database.
+In this version only certain amount of questions are filled max to max 15 questions.
+It will get better in future updates.
+
+
+requirements:
+windows pc(any spec).
+python version 3.7 or above.
+
+Modules installed:
+gtts(google text to speech)
+playaudio
+pyaudio
+speechrecognition
+pillow
+tkinter
+os
+
+
+Database used:
+MySql database.
+
+Database contents:
+user table
+infotable
+
+database file is included in this directory.
+font file is also included in the library please install it first
+
+.______________________________________________________________________________________.
+|Note: You can ask anything to the chatbot but as we have not fed vast amount of data  |
+|      so it is recommended to ask the question given in questions.txt file            |
+.______________________________________________________________________________________.
+
+.______________________________________________________________________________________.
+|Note: For using voice input you must be connected to the fast internet connection and |
+|      also to get response from elsa you need internet connection                     |
+.______________________________________________________________________________________.
+
+
+
+thankyou and please wait for next update.
